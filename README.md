@@ -1,2 +1,1 @@
-# yukirinu_jimaku
-ゆきりぬ頻道影片的中文翻譯。
+## 日文 Youtuber 中文翻譯字幕
