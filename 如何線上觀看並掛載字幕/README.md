@@ -24,6 +24,7 @@
 
 ### chrome插件
 https://www.dualsub.xyz/plugin-usage.html
+
 這個插件可以實現直接在瀏覽器掛載本地字幕。
 不過貌似不支持ASS格式，或者是說不支持aegisub產出的ass的樣子
 
