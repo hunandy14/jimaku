@@ -14,10 +14,10 @@ Audio File: ../../../../../Downloads/実家に帰ってきた女、3年ぶりに
 Video File: ../../../../../Downloads/実家に帰ってきた女、3年ぶりに趣味デスクを紹介する！！！2021ver/実家に帰ってきた女、3年ぶりに趣味デスクを紹介する！！！2021ver. (1080p_60fps_H264-128kbit_AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.495370
-Scroll Position: 111
-Active Line: 126
-Video Position: 35685
+Video Zoom Percent: 0.890741
+Scroll Position: 132
+Active Line: 157
+Video Position: 44748
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -83,7 +83,7 @@ Dialogue: 0,0:03:55.60,0:04:00.08,Default,,0,0,0,,不過我還是一直在用這
 Dialogue: 0,0:04:00.08,0:04:05.73,Default,,0,0,0,,以玩遊戲來說 顯卡雖然不是30系列的
 Dialogue: 0,0:04:05.73,0:04:09.97,Default,,0,0,0,,好像是20多少的而已忘記了 不過就算這樣
 Dialogue: 0,0:04:10.18,0:04:15.10,Default,,0,0,0,,跑遊戲也能能輕易的跑超過144FPS
-Dialogue: 0,0:04:15.10,0:04:20.07,Default,,0,0,0,,只是編輯影片的話還是只能靠CPU 
+Dialogue: 0,0:04:15.10,0:04:20.07,Default,,0,0,0,,只是編輯影片的話還是只能靠CPU
 Dialogue: 0,0:04:20.07,0:04:22.52,Default,,0,0,0,,輸出時間有點久呢
 Dialogue: 0,0:04:22.52,0:04:29.04,Default,,0,0,0,,最近也沒怎麼組新電腦 有點想換了
 Dialogue: 0,0:04:29.04,0:04:32.82,Default,,0,0,0,,只是這個機殼實在太可愛了捨不得換
@@ -127,7 +127,7 @@ Dialogue: 0,0:07:29.76,0:07:34.14,Default,,0,0,0,,大概從我高中就開始用
 Dialogue: 0,0:07:34.14,0:07:36.80,Default,,0,0,0,, 等一下 這麼一說好像用了快7年了
 Dialogue: 0,0:07:36.80,0:07:43.34,Default,,0,0,0,,型號是UR22 他還有下一代是有 II 標誌的
 Dialogue: 0,0:07:43.34,0:07:47.49,Default,,0,0,0,, 沒有弄錯呢 確實是從高中開始就一直用了
-Dialogue: 0,0:07:47.49,0:07:49.73,Default,,0,0,0,,
+Dialogue: 0,0:07:47.49,0:07:49.73,Default,,0,0,0,,不知不覺的就這樣一直用到現在了
 Dialogue: 0,0:07:49.73,0:07:55.49,Default,,0,0,0,,
 Dialogue: 0,0:07:55.49,0:08:01.06,Default,,0,0,0,,音質的話 我覺得很好呢
 Dialogue: 0,0:08:01.06,0:08:05.68,Default,,0,0,0,,這個是 YAMAHA 的 MG06X
@@ -146,40 +146,44 @@ Dialogue: 0,0:09:05.07,0:09:11.66,Default,,0,0,0,,Anker的防水喇叭 洗澡可
 Dialogue: 0,0:09:11.66,0:09:17.85,Default,,0,0,0,,這樣的喇叭我拿來給電腦用了 只是簡單用AUX線連接
 Dialogue: 0,0:09:17.85,0:09:20.52,Default,,0,0,0,,這個大概只有5000元而已
 Dialogue: 0,0:09:20.52,0:09:26.33,Default,,0,0,0,, 追求音質的話 覺得還是好好的買個喇叭同時都有比較好
-Dialogue: 0,0:09:26.33,0:09:32.51,Default,,0,0,0,,
-Dialogue: 0,0:09:32.51,0:09:38.29,Default,,0,0,0,,因為空間的關係放不下 現在就用這個了
-Dialogue: 0,0:09:38.29,0:09:45.54,Default,,0,0,0,,
-Dialogue: 0,0:09:45.54,0:09:48.49,Default,,0,0,0,,音質還算不錯
+Dialogue: 0,0:09:26.33,0:09:32.51,Default,,0,0,0,,在我回老家之前 是有放兩個白色喇叭在兩側用
+Dialogue: 0,0:09:32.51,0:09:38.29,Default,,0,0,0,,因為空間的關係放不下了 現在就用這個
+Dialogue: 0,0:09:38.29,0:09:41.50,Default,,0,0,0,,雖然是藍芽喇叭不過也是有重低音的
+Dialogue: 0,0:09:41.50,0:09:45.54,Default,,0,0,0,,在浴室用的話還會有回音
+Dialogue: 0,0:09:45.54,0:09:48.49,Default,,0,0,0,,反而別有一種氛圍
 Dialogue: 0,0:09:48.49,0:09:52.80,Default,,0,0,0,,
 Dialogue: 0,0:09:52.80,0:09:55.34,Default,,0,0,0,,
 Dialogue: 0,0:09:55.34,0:10:03.92,Default,,0,0,0,,
-Dialogue: 0,0:10:03.92,0:10:08.69,Default,,0,0,0,,
+Dialogue: 0,0:10:03.92,0:10:08.69,Default,,0,0,0,,最裡面的是 海外的
 Dialogue: 0,0:10:08.69,0:10:14.66,Default,,0,0,0,,
-Dialogue: 0,0:10:14.66,0:10:17.24,Default,,0,0,0,,
-Dialogue: 0,0:10:17.24,0:10:24.50,Default,,0,0,0,,
-Dialogue: 0,0:10:24.50,0:10:29.37,Default,,0,0,0,,
-Dialogue: 0,0:10:29.40,0:10:34.48,Default,,0,0,0,,
-Dialogue: 0,0:10:34.48,0:10:37.36,Default,,0,0,0,,
-Dialogue: 0,0:10:37.36,0:10:44.10,Default,,0,0,0,,
-Dialogue: 0,0:10:44.10,0:10:49.36,Default,,0,0,0,,
-Dialogue: 0,0:10:49.36,0:10:53.64,Default,,0,0,0,,
-Dialogue: 0,0:10:53.64,0:10:57.64,Default,,0,0,0,,
-Dialogue: 0,0:10:57.66,0:11:04.09,Default,,0,0,0,,
+Dialogue: 0,0:10:14.66,0:10:17.24,Default,,0,0,0,,這個 很可愛吧
+Dialogue: 0,0:10:17.24,0:10:24.50,Default,,0,0,0,,然後是滑鼠 這個有點髒了
+Dialogue: 0,0:10:24.50,0:10:29.37,Default,,0,0,0,,真是不好意思 雖然我擦過了但擦不掉
+Dialogue: 0,0:10:29.40,0:10:34.48,Default,,0,0,0,,這滑鼠我超喜歡的 即便用到這樣了也還再用
+Dialogue: 0,0:10:34.48,0:10:37.36,Default,,0,0,0,,這個充滿洞洞的Air58
+Dialogue: 0,0:10:37.36,0:10:40.70,Default,,0,0,0,,這個也是和ふもっふ合作的時候
+Dialogue: 0,0:10:40.70,0:10:46.16,Default,,0,0,0,,恰好有機會到他們辦公室而拿到的
+Dialogue: 0,0:10:46.16,0:10:49.36,Default,,0,0,0,,這個超合我的手的
+Dialogue: 0,0:10:49.36,0:10:53.64,Default,,0,0,0,,重量也很輕很適合我
+Dialogue: 0,0:10:53.64,0:10:57.64,Default,,0,0,0,,輕量化真的很棒  很輕松
+Dialogue: 0,0:10:57.66,0:11:04.09,Default,,0,0,0,,用過就回不去了 不想用其他滑鼠
 Dialogue: 0,0:11:04.11,0:11:09.44,Default,,0,0,0,,
-Dialogue: 0,0:11:09.45,0:11:14.99,Default,,0,0,0,,
-Dialogue: 0,0:11:14.99,0:11:21.01,Default,,0,0,0,,
-Dialogue: 0,0:11:21.01,0:11:26.74,Default,,0,0,0,,
-Dialogue: 0,0:11:26.81,0:11:32.96,Default,,0,0,0,,
-Dialogue: 0,0:11:32.96,0:11:35.93,Default,,0,0,0,,
-Dialogue: 0,0:11:35.93,0:11:39.64,Default,,0,0,0,,
-Dialogue: 0,0:11:39.64,0:11:44.54,Default,,0,0,0,,
-Dialogue: 0,0:11:44.54,0:11:49.54,Default,,0,0,0,,
-Dialogue: 0,0:11:49.57,0:11:56.83,Default,,0,0,0,,
-Dialogue: 0,0:11:56.83,0:12:02.01,Default,,0,0,0,,
-Dialogue: 0,0:12:02.01,0:12:10.63,Default,,0,0,0,,
-Dialogue: 0,0:12:10.71,0:12:17.28,Default,,0,0,0,,
+Dialogue: 0,0:11:09.45,0:11:14.99,Default,,0,0,0,,雷蛇的滑鼠也很合的手 我也很喜歡
+Dialogue: 0,0:11:14.99,0:11:21.01,Default,,0,0,0,,但還是習慣不了從輕的滑鼠換到重的
+Dialogue: 0,0:11:21.01,0:11:23.38,Default,,0,0,0,,要是能再輕一點就好了
+Dialogue: 0,0:11:23.38,0:11:26.81,Default,,0,0,0,,手會很酸 還是這個最好
+Dialogue: 0,0:11:26.81,0:11:32.96,Default,,0,0,0,,這牌子的滑鼠也有白的  不過那個有點小
+Dialogue: 0,0:11:32.96,0:11:35.93,Default,,0,0,0,,我用起來還是這個比較合手
+Dialogue: 0,0:11:35.93,0:11:39.64,Default,,0,0,0,,鍵盤是海盜船的
+Dialogue: 0,0:11:39.64,0:11:44.54,Default,,0,0,0,,這個鍵帽是我自己換的
+Dialogue: 0,0:11:44.54,0:11:49.54,Default,,0,0,0,,原本是黑色的 這邊綠色的也是別的鍵帽
+Dialogue: 0,0:11:49.57,0:11:54.66,Default,,0,0,0,,
+Dialogue: 0,0:11:54.66,0:12:02.01,Default,,0,0,0,,
+Dialogue: 0,0:12:02.01,0:12:05.10,Default,,0,0,0,,阿 還有這個滑鼠墊 這個滑鼠也是
+Dialogue: 0,0:12:05.10,0:12:10.71,Default,,0,0,0,,和ふもっふ合作的時候 和熊貓鍵盤一起來的
+Dialogue: 0,0:12:10.71,0:12:17.28,Default,,0,0,0,,熊貓現在是反的 是因為那邊髒了
 Dialogue: 0,0:12:17.36,0:12:22.19,Default,,0,0,0,,
-Dialogue: 0,0:12:22.19,0:12:28.39,Default,,0,0,0,,
+Dialogue: 0,0:12:22.19,0:12:28.39,Default,,0,0,0,,我喜歡的材質是這種布做的滑鼠墊
 Dialogue: 0,0:12:28.39,0:12:35.74,Default,,0,0,0,,
 Dialogue: 0,0:12:35.74,0:12:37.98,Default,,0,0,0,,
 Dialogue: 0,0:12:37.98,0:12:46.64,Default,,0,0,0,,
